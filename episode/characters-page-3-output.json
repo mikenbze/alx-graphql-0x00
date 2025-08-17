@@ -1,0 +1,38 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Big Head Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Big Head Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Bootleg Portal Chemist Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        },
+        {
+          "id": "44",
+          "name": "Cop Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+        },
+        {
+          "id": "45",
+          "name": "Cop Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+        }
+      ]
+    }
+  }
+}
